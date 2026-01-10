@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://liabilityyxy.github.io/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -30,11 +30,8 @@
                 href="https://liabilityyxy.github.io/"
                 />
   </url><url>
-    <loc>https://liabilityyxy.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://liabilityyxy.github.io/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -45,6 +42,22 @@
                 hreflang="en"
                 href="https://liabilityyxy.github.io/page/"
                 />
+  </url><url>
+    <loc>https://liabilityyxy.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://liabilityyxy.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liabilityyxy.github.io/%E5%85%B3%E4%BA%8E/"
+                />
+  </url><url>
+    <loc>https://liabilityyxy.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liabilityyxy.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -176,19 +189,6 @@
   </url><url>
     <loc>https://liabilityyxy.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liabilityyxy.github.io/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://liabilityyxy.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://liabilityyxy.github.io/about/"
-                />
   </url><url>
     <loc>https://liabilityyxy.github.io/links/</loc>
   </url><url>
