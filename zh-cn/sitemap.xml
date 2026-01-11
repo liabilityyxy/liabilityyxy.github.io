@@ -39,13 +39,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/categories/"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/categories/"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,18 +57,6 @@
                 hreflang="zh-cn"
                 href="https://liabilityyxy.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://liabilityyxy.github.io/tags/css/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liabilityyxy.github.io/tags/html/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liabilityyxy.github.io/tags/markdown/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liabilityyxy.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liabilityyxy.github.io/post/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
@@ -87,9 +75,6 @@
                 hreflang="zh-cn"
                 href="https://liabilityyxy.github.io/post/"
                 />
-  </url><url>
-    <loc>https://liabilityyxy.github.io/categories/syntax/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liabilityyxy.github.io/tags/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
@@ -119,10 +104,22 @@
                 href="https://liabilityyxy.github.io/tags/"
                 />
   </url><url>
-    <loc>https://liabilityyxy.github.io/categories/themes/</loc>
+    <loc>https://liabilityyxy.github.io/tags/%E5%88%9B%E4%BD%9C/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liabilityyxy.github.io/tags/themes/</loc>
+    <loc>https://liabilityyxy.github.io/tags/%E6%AD%BB%E4%BA%A1/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/categories/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/tags/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/p/%E7%B4%AB%E9%87%91%E6%B8%AF%E6%B0%B8%E6%81%92%E5%A4%9C/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liabilityyxy.github.io/p/test-chinese/</loc>
@@ -149,7 +146,7 @@
     <loc>https://liabilityyxy.github.io/p/emoji-support/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liabilityyxy.github.io/p/math-typesetting/</loc>
+    <loc>https://liabilityyxy.github.io/tags/markdown/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liabilityyxy.github.io/page/</loc>
@@ -175,13 +172,13 @@
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/categories/test/"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/categories/test/"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -199,6 +196,21 @@
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liabilityyxy.github.io/archives/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/categories/%E8%AF%97/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/tags/%E8%AF%97/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/p/%E4%BA%94%E6%9C%88%E5%BB%BF%E4%B8%89%E5%A4%8F%E6%97%A5%E5%AF%B9%E6%8B%9C%E8%B0%83/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/tags/%E5%A4%8F/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/tags/%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liabilityyxy.github.io/%E5%85%B3%E4%BA%8E/</loc>
