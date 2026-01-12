@@ -85,13 +85,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/tags/"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/tags/"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -121,24 +121,6 @@
   </url><url>
     <loc>https://liabilityyxy.github.io/p/%E7%B4%AB%E9%87%91%E6%B8%AF%E6%B0%B8%E6%81%92%E5%A4%9C/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liabilityyxy.github.io/p/test-chinese/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://liabilityyxy.github.io/p/test-chinese/"
-                />
   </url><url>
     <loc>https://liabilityyxy.github.io/tags/emoji/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
@@ -172,13 +154,13 @@
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/categories/test/"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/categories/test/"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -203,6 +185,24 @@
   </url><url>
     <loc>https://liabilityyxy.github.io/tags/%E8%AF%97/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liabilityyxy.github.io/p/december-poems/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/p/test-chinese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/p/test-chinese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://liabilityyxy.github.io/p/december-poems/"
+                />
   </url><url>
     <loc>https://liabilityyxy.github.io/p/%E4%BA%94%E6%9C%88%E5%BB%BF%E4%B8%89%E5%A4%8F%E6%97%A5%E5%AF%B9%E6%8B%9C%E8%B0%83/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
