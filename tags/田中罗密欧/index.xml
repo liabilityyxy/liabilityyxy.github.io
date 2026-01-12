@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Emoji on 阿瘾</title>
-        <link>https://liabilityyxy.github.io/tags/emoji/</link>
-        <description>Recent content in Emoji on 阿瘾</description>
+        <title>田中罗密欧 on 阿瘾</title>
+        <link>https://liabilityyxy.github.io/tags/%E7%94%B0%E4%B8%AD%E7%BD%97%E5%AF%86%E6%AC%A7/</link>
+        <description>Recent content in 田中罗密欧 on 阿瘾</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>liabilityyxy</copyright>
-        <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://liabilityyxy.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Emoji Support</title>
-        <link>https://liabilityyxy.github.io/p/emoji-support/</link>
-        <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+        <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://liabilityyxy.github.io/tags/%E7%94%B0%E4%B8%AD%E7%BD%97%E5%AF%86%E6%AC%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>回忆录：CROSS†CHANNEL</title>
+        <link>https://liabilityyxy.github.io/p/%E5%9B%9E%E5%BF%86%E5%BD%95crosschannel/</link>
+        <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://liabilityyxy.github.io/p/emoji-support/</guid>
-        <description>&lt;img src="https://liabilityyxy.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://liabilityyxy.github.io/p/%E5%9B%9E%E5%BF%86%E5%BD%95crosschannel/</guid>
+        <description>&lt;img src="https://liabilityyxy.github.io/p/%E5%9B%9E%E5%BF%86%E5%BD%95crosschannel/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 回忆录：CROSS†CHANNEL" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
