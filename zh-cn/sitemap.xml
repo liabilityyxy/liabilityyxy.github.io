@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://liabilityyxy.github.io/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liabilityyxy.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://liabilityyxy.github.io/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://liabilityyxy.github.io/"
+                />
+  </url><url>
     <loc>https://liabilityyxy.github.io/page/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,13 +91,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/tags/"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/tags/"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -139,34 +167,6 @@
     <loc>https://liabilityyxy.github.io/tags/%E5%88%9B%E4%BD%9C/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liabilityyxy.github.io/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://liabilityyxy.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://liabilityyxy.github.io/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://liabilityyxy.github.io/"
-                />
-  </url><url>
     <loc>https://liabilityyxy.github.io/p/%E4%B8%83%E6%9C%88%E5%9B%9B%E6%97%A5%E5%B9%B6%E5%8D%81%E4%BA%8C%E6%97%A5%E6%81%8D%E6%81%8D%E6%83%9A%E6%83%9A%E8%B0%83/</loc>
     <lastmod>2024-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -207,13 +207,13 @@
     <loc>https://liabilityyxy.github.io/categories/test/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://liabilityyxy.github.io/ja/categories/test/"
+                hreflang="zh-tw"
+                href="https://liabilityyxy.github.io/zh-tw/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://liabilityyxy.github.io/zh-tw/categories/test/"
+                hreflang="ja"
+                href="https://liabilityyxy.github.io/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
