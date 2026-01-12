@@ -149,30 +149,22 @@
         <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
         
         <guid>https://liabilityyxy.github.io/p/%E5%9B%9E%E5%BF%86%E5%BD%95crosschannel/</guid>
-        <description>&lt;img src="https://liabilityyxy.github.io/p/%E5%9B%9E%E5%BF%86%E5%BD%95crosschannel/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 回忆录：CROSS†CHANNEL" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://www.webfx.com/tools/emoji-cheat-sheet/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+        <description>&lt;img src="https://liabilityyxy.github.io/p/%E5%9B%9E%E5%BF%86%E5%BD%95crosschannel/cc.png" alt="Featured image of post 回忆录：CROSS†CHANNEL" /&gt;&lt;h1 id=&#34;原文作于2022年8月日记稍冗请见谅重点在后半&#34;&gt;（原文作于2022年8月日记，稍冗请见谅，重点在后半）
+&lt;/h1&gt;&lt;p&gt;C+C我说不出什么来。田中口三才和蘑菇二位都有属于自己的“谜语”，但蘑菇干扰的是动机，田中干扰的是理解，后者主题表达与谜语式的议论的镶嵌程度远超前者。&lt;/p&gt;
+&lt;p&gt;在田中这里，主题的表现从剧情情节发展可以略见一二，太一从轮回的交际到独自一人再到一个人的希冀，以“他人”为支柱，田中以C+C为平台，创造着名为联系的痛苦的议论。但，太一又因何而再生呢，从七香那里得到了什么呢？其他的角色又意欲何为，而他们的“真实”又想说明什么？文本本身的东西，我终究吃不透它，或许是因为推太急，或许是田中本身就晦涩了些，导致我没有一个太总体的把握。&lt;/p&gt;
+&lt;p&gt;后加情境，先批判呗。我向来厌烦一种后加的情境。即：一个环境，与主故事相隔甚远，提及只是为了回忆，为人物加一层关系，这个情境的戏份又是极少。典型例子比如ever17中月海的故事，甚至（我个人觉得ever17之所以调动情感差就是因为这个）可以这么说，所有在海面上的故事背景，人物过去都以这个形式，其故事本身倒也还不错，但其效果也不如阿基米德原理·滚筒洗衣机啊……但，ever17不得不说算是有所取舍的，它不对海上世界描绘，省钱的同时呢，到也对海底世界的幽深、神秘、悬疑与一丝恐怖的营造加了火，但也造成后续故事揭露时海上世界的突兀、不适。于C+C中便是太一与曜子的童年（包括新川平的线路），还好就在于这块情境提出较早，后续于其中的反转倒也得当，只是因此情感就不容易生发而出。所以说月姬虽窄小，而五脏俱全。场景，应在非明显的工具化下出现，自然地成为人在认知这个galgame的一部分，可以说，ever17最后地上故事的描述正是与先前构造的感觉冲突了。&lt;/p&gt;
+&lt;p&gt;然而，C+C这个到不那么紧要，因为大部分的故事正是在足够有限的地方上演的。所以从轮回上说说吧。C+C像……《永无止境的八月》的情况，同时轮回系饱受galgame喜爱的原因无非是将选项营造的平行时空铺陈在单条的有序时间线上，增加不同线路的意义，也赋予分线本身正当的形式，同时还能就轮回之因设计一个情节，一举多得，同时省CG，背景也是很好水……C+C在轮回上的处理其实不错，其本身是每线塑造一个人，且都算是主题的一部分，而轮回的终结也蕴含煽情和升华主题的二分作用，可谓是纯粹的轮回使用法，即产生问题-轮回-解决。&lt;/p&gt;
+&lt;p&gt;这就要提到C+C节奏的成功了，它清楚地把握了20h+galgame的基本节奏：4-5条线，推至高潮并自然结局，时间分配很完美，更细的节奏体现在“爆点”，一周目用以接纳新世界，二周目点出奇幻式的境遇，三周目点出轮回，四周目正常线但美希线恰巧是轮回机制本身的爆点，用完后五周目曜子线（伪）直面惨状，六周目开始高潮（送人），最后广播升华。如此一看C+C是节奏、结构都极为纯熟的作品。&lt;/p&gt;
+&lt;p&gt;正是如此纯熟的剧本把控，基本充实了大多数角色，且可谓个个有其特色、有其困境亦有其希望、有其议论，旁线各有血肉，H各自精彩，一般的作品不必到此地步，然后对C+C，这种结构利于它肆意表现其主题，每一周目的线都有那个女孩子的个人特点，也饱含各种问题，最后再随剧情回顾一遍，将笔墨总指到核心，再用议论+情节给主题以表达。&lt;/p&gt;
+&lt;p&gt;写之前没想到C+C这么可夸么……但之所以没那么高，无非是因为：C+C的主题只从侧面击中了我。&lt;/p&gt;
+&lt;p&gt;我企盼看见更多，更多人的心情、感性、决断、挣扎，在田中于C+C的议论中，他来回地叙述着个人、孤独、他人、交流、挣扎这种命题，对现在的我而言，毫无疑问是极富冲击力的，因为我正是觉得交际是一件奇特且困顿的事，人与人的接触是极为奇妙的，所以我也不会认为田中的拉扯有什么不好。但事实是，田中吧交际时微小的东西通过对角色们的去正常化而突出了出来。田中或许认为群青的“A.T.Field”全开的特质适合在channel中突出那份cross，但所谓舍与得也正是如此，将普通人隐约的拧巴凸显出来的代价是，其特殊性。特殊的命题，但在这种命题上只是创造一个环境情景以供表达，而且这个环境过于特殊，则不会让我太有感触。创造环境不是不能特殊极端，三体、Muv-luv，讨论的是人随口可言的道德、战争，正需要极端地去揭示一些外表内的东西，而C+C，讨论的是一个极私人却普遍的东西，是去宏大叙事的，原子化的人与人的接触，相比揭示，更需要也更急的是表现它，而不必去压它。&lt;/p&gt;
+&lt;p&gt;总之这就是C+C的感觉：每个人都欠缺些拧巴，心里弊病直白得难以共鸣，甚至加入了不乏太一的“杀戮面”这种东西……C+C直白地点出每个人的异化的交际，或许正是人世常见的，但日常中更多是这些东西的杂糅，而这么直白的指名也少了许多的感觉，或许这种话题要找所谓“共鸣”就是如此困难吧。田中费尽心思将人与人交际的异化表现分拆开赋予不同角色，我却不太买账，而他到最后，究竟是真正地去刻画出“交际的真”呢，还是就自己创造的特殊们一份浪漫的治愈呢？说到底，同情与共情，谁更重呢？这般想来，C+C只在它故事本身，“完成”了。&lt;/p&gt;
+&lt;h1 id=&#34;现在看来&#34;&gt;现在看来
+&lt;/h1&gt;&lt;p&gt;以前我废话真多，前半篇文章全是废话。轮回的好处和节奏的优秀哪用得着说这么多？这不是galgame常识吗……至于所谓的“后加情境”，无非是C+C的都和主义有点让我不满。其实galgame的都和主义往往很严重，C+C甚至可以算不错的代表了，但故事的动机还是太降神了，无论是七香的设置还是过去的创伤情境都处理得很一般。&lt;/p&gt;
+&lt;p&gt;但这篇文章的价值仍然还在：即极端化是C+C处理人物的一个底色。我当初写的时候总想着叠甲，完全没必要，田中这样处理就是不合我胃口。人与人之间的连结本来就是幽微难明的，那种复杂而微妙的拉扯才是令人着迷的，把某种黑暗成分放到最大放到某一个女角色中的这种处理，纵然加大了戏剧冲突，但一切都太直白了。气质就因此变得像《莫失莫忘》一样，属于畸形儿的，命中注定般的平静悲哀。&lt;/p&gt;
+&lt;p&gt;C+C为什么不必纠结那些看起来哲学的言语？这是我欣赏所有标榜着思想性的作品的理念：不存在完美的思想，你任由它述说吧，总体的表达像一首别扭的诗，触动时是莫名其妙的东西，无关长篇大段的哲理，无关具体的充满解读性的谜语，永远只与某一刻的感受有关。&lt;/p&gt;
+&lt;p&gt;过去了这几年，我感觉C+C经过记忆的洗涤之后留下的东西是最值得补充的。后续关于视觉小说艺术的文章应该会细讲，但仅就C+C，体现得也很完美。我们不得不承认视觉小说/galgame是一种贫穷的被迫的艺术，但不可否认的是，并不多的演出/场景资源反而能做出独特的审美质感。群青学园的CG、校外的CG、山路的CG，大量的重复给人一种闷闷的感觉。但区别于幽闭，CG大多具有开放性，基本不出现除主角团外的其他人，而且经常使用空场景，制造出阈限空间。当空间开始注视你的时候，孤独的忧郁感油然而生。这是C+C的根，主世界这种气质的构建太成功了，所以才会觉得过去的事件都有点割裂乃至降神（这个意义上我认为只要审美感受延续降神其实不影响体验），要是像《海市蜃楼之馆》那样保持风味的一致也就罢了，但C+C并不是这样。galgame简直是天然的阈限空间生成地，galgame的艺术很多时候就表现在如何让梦核开花。&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>紫金港永恒夜</title>
